@@ -1,0 +1,10 @@
+C:\Users\Олег\source\repos\FarmFrenzy\FarmFrenzy\obj\Debug\FarmFrenzy.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\FarmFrenzy\FarmFrenzy\obj\Debug\FarmFrenzy.Form1.resources
+C:\Users\Олег\source\repos\FarmFrenzy\FarmFrenzy\obj\Debug\FarmFrenzy.Properties.Resources.resources
+C:\Users\Олег\source\repos\FarmFrenzy\FarmFrenzy\obj\Debug\FarmFrenzy.csproj.GenerateResource.cache
+C:\Users\Олег\source\repos\FarmFrenzy\FarmFrenzy\obj\Debug\FarmFrenzy.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\FarmFrenzy\FarmFrenzy\bin\Debug\FarmFrenzy.exe.config
+C:\Users\Олег\source\repos\FarmFrenzy\FarmFrenzy\bin\Debug\FarmFrenzy.exe
+C:\Users\Олег\source\repos\FarmFrenzy\FarmFrenzy\bin\Debug\FarmFrenzy.pdb
+C:\Users\Олег\source\repos\FarmFrenzy\FarmFrenzy\obj\Debug\FarmFrenzy.exe
+C:\Users\Олег\source\repos\FarmFrenzy\FarmFrenzy\obj\Debug\FarmFrenzy.pdb
